@@ -9,6 +9,7 @@ enter player name here
 
 // 5/5
 >> Owners > Higher+Admin+Staff+VIP
+Magma Studio
 MagmaMCVR
 Hywel Playz
 x Stardust x
